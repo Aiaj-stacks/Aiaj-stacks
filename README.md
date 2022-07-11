@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aiaj-stacks
+- 👋 Hi, I’m Aiaj
 - 👀 I’m interested in ... programming and mastering it 
-- 🌱 I’m currently learning ... Python and Hava
-- 💞️ I’m looking to collaborate on ... many different projects 
+- 🌱 I’m currently learning ... Python and Java
+- 💞️ I’m looking to collaborate on ... different projects that aim to solve real life issues.
 
 - 📫 How to reach me ... rijveeaiaj@gmail.com
 
