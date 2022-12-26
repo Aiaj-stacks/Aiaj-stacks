@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Aiaj
-- 👀 I’m interested in ... programming and mastering it 
-- 🌱 I’m currently learning ... Full-Stack development
+- 👀 I’m interested in ... uncovering secrets and feeling like a detective 
+- 🌱 I’m currently learning ... Data Analytics
 - 💞️ I’m looking to collaborate on ... different projects that aim to solve real life issues.
 
-- 📫 How to reach me ... rijveeaiaj@gmail.com
+- 📫 How to reach me ... https://linkedin.com/in/aiajr | rijveeaiaj@gmail.com
 
 <!---
 Aiaj-stacks/Aiaj-stacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
