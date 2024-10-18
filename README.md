@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aiaj
 - 👀 I’m interested in ... uncovering secrets
-- 🌱 I’m currently learning ... Data Science and BI 
+- 🌱 I’m currently learning ... Data Science and BI whilst working as a manager at Amazon 
 - 💞️ I’m looking to collaborate on ... different projects that aim to solve real-life issues.
 
 - 📫 How to reach me ... https://linkedin.com/in/aiajr | rijveeaiaj@gmail.com 
